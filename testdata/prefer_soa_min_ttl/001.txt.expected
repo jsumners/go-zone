@@ -1,0 +1,2 @@
+@ 3600 in SOA localhost. postmaster.localhost. 1993050801 3600 1800 604800 3600
+foo 3600 in a 1.2.3.4

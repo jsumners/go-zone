@@ -1,0 +1,5 @@
+@ 1000 in SOA localhost. postmaster.localhost. 1993050801 3600 1800 604800 3600
+@ 1000 in ns ns.vix.com.
+@ 1000 in ns ns2.vix.com.
+@ 1000 in ns ns3.vix.com.
+b 1000 in a 1.2.3.4

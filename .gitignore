@@ -1,0 +1,6 @@
+.idea/
+.task/
+local/
+dist/
+
+coverage.*

@@ -1,0 +1,1 @@
+86400 default._domainkey IN TXT "v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDz5v+HZadCoCuUA5OzkHSd2EheSVQYgoZ/Ry2g6R3NGJTL13Y6T/ZpkLChjz30cLi4WRVShvdhbgaEOmOy/TjgguqdgxuFimfSz98kzNt0pDnZXwrNtfNyrBvC8Ik2vJleWyAlvvf5+2xp0koo05dieYLfNjD4ks2go8gsv9KN3QIDAQAB"
